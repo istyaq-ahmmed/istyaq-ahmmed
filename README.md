@@ -11,10 +11,10 @@ It's my responsibility to
 
 > [!IMPORTANT]
 > Send Help
-I am looking for someone who is,
-- Good at NodeJs.
-- Have experience at WebScraping.
-- Have the neck for problem solving.
+>I am looking for someone who is,
+>- Good at NodeJs.
+>- Have experience at WebScraping.
+>- Have the neck for problem solving.
 
 
 <!--
